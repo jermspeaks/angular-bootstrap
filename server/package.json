@@ -1,0 +1,17 @@
+{
+  "name": "angular-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap Angular App - Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Jeremy Wong",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.3.14"
+  }
+}

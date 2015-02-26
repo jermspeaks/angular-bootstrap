@@ -1,0 +1,20 @@
+{
+  "name": "Angular_bootstrap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jermspeaks/angular-bootstrap",
+  "authors": [
+    "Jeremy Wong <jermspeaks@gmail.com>"
+  ],
+  "description": "bootstrapping angular application",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

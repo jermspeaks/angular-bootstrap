@@ -1,0 +1,14 @@
+{
+  "name": "Angular_bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrapping Angular app on Client end to build to server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Jeremy Wong",
+  "license": "MIT"
+}
